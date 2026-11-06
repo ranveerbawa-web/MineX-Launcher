@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_or_white">#FFFFFF</color>
+
+    <color name="background_app">#1E1E1F</color>
+    <color name="background_app_error">#431A1A</color>
+    <color name="background_overlay">#2B2B2C</color>
+    <color name="background_status_bar">#121212</color>
+    <color name="background_menu_top">#111112</color>
+    <color name="background_menu_top_error">#9C2D2D</color>
+    <color name="background_menu_element">#3C8527</color>
+    <color name="background_ripple_effect">#6BBF4A</color>
+
+    <color name="button_background">#48494A</color>
+    <color name="button_background_selected">#5A5B5C</color>
+    <color name="dialog_background">#262627</color>
+
+    <color name="menu_bar">#3A3A3B</color>
+    <color name="menu_bar_text">#FFFFFF</color>
+    <color name="menu_overlay">#E61E1E1F</color>
+    <color name="menu_progress">#3C8527</color>
+
+    <color name="background_item">#D92A2A2B</color>
+    <color name="background_item_selected">#F23C8527</color>
+    <color name="background_item_disabled">#D8452828</color>
+    <color name="background_sponsor_intermediate">#CCFFCB8B</color>
+    <color name="background_sponsor_advanced">#CCFDA28A</color>
+
+    <color name="edit_box_fill">#313233</color>
+    <color name="edit_box_fill_selected">#48494A</color>
+
+    <color name="mod_category_fill">#80484848</color>
+    <color name="text_background_fill">#B3313233</color>
+
+    <color name="settings_category">#6BBF4A</color>
+
+    <color name="favorite_color">#FA7C7C</color>
+
+    <color name="icon_color">#FFFFFF</color>
+
+    <color name="primary_text">#FFFFFF</color>
+
+    <color name="minex_green">#3C8527</color>
+    <color name="minex_green_dark">#2A6B1A</color>
+    <color name="minex_green_light">#6BBF4A</color>
+    <color name="minex_surface">#262627</color>
+    <color name="minex_youtube">#FF0000</color>
+</resources>
