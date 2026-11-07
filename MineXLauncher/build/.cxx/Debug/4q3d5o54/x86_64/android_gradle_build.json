@@ -1,0 +1,190 @@
+{
+  "buildFiles": [
+    "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+      "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+      "APP_ABI\u003dx86_64",
+      "NDK_ALL_ABIS\u003dx86_64",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-26",
+      "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+      "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+    "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+    "APP_ABI\u003dx86_64",
+    "NDK_ALL_ABIS\u003dx86_64",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-26",
+    "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+    "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "driver_helper-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libdriver_helper.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "driver_helper",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libdriver_helper.so"
+    },
+    "pojavexec-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libpojavexec.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "pojavexec",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libpojavexec.so"
+    },
+    "linkerhook-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/liblinkerhook.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "linkerhook",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/liblinkerhook.so"
+    },
+    "awt_headless-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libawt_headless.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "awt_headless",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libawt_headless.so"
+    },
+    "pojavexec_awt-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libpojavexec_awt.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "pojavexec_awt",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libpojavexec_awt.so"
+    },
+    "exithook-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libexithook.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "exithook",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libexithook.so"
+    },
+    "awt_xawt-proguard-x86_64": {
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+        "APP_ABI\u003dx86_64",
+        "NDK_ALL_ABIS\u003dx86_64",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libawt_xawt.so"
+      ],
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "awt_xawt",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64/libawt_xawt.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86_64": {
+      "cCompilerExecutable": "/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

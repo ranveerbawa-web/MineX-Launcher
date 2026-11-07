@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.movtery.zalithlauncher.ZalithLauncher-mergeDebugResources-48:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/8.11.1/transforms/c419581e8c859eed031d0a8b938b527c/transformed/appcompat-1.7.0-alpha02/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

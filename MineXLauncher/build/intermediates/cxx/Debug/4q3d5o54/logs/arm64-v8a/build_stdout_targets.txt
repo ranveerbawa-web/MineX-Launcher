@@ -1,0 +1,33 @@
+
+[arm64-v8a] SharedLibrary  : libawt_headless.so
+[arm64-v8a] Compile        : awt_xawt <= xawt_fake.c
+[arm64-v8a] SharedLibrary  : libawt_xawt.so
+[arm64-v8a] Compile        : driver_helper <= driver_helper.c
+[arm64-v8a] Compile        : driver_helper <= nsbypass.c
+[arm64-v8a] SharedLibrary  : libdriver_helper.so
+[arm64-v8a] Compile        : exithook <= exit_hook.c
+[arm64-v8a] Prebuilt       : libbytehook.so <= /home/codespace/.gradle/caches/8.11.1/transforms/81aaa886fb2896915182b157529063c4/transformed/jetified-bytehook-1.0.10/prefab/modules/bytehook/libs/android.arm64-v8a/
+[arm64-v8a] Compile        : pojavexec <= bigcoreaffinity.c
+[arm64-v8a] Compile        : pojavexec <= egl_bridge.c
+[arm64-v8a] Compile        : pojavexec <= br_loader.c
+[arm64-v8a] Compile        : pojavexec <= gl_bridge.c
+[arm64-v8a] Compile        : pojavexec <= osm_bridge.c
+[arm64-v8a] Compile        : pojavexec <= egl_loader.c
+[arm64-v8a] Compile        : pojavexec <= osmesa_loader.c
+[arm64-v8a] Compile        : pojavexec <= swap_interval_no_egl.c
+[arm64-v8a] Compile        : pojavexec <= virgl_bridge.c
+[arm64-v8a] Compile        : pojavexec <= environ.c
+[arm64-v8a] Compile        : pojavexec <= input_bridge_v3.c
+[arm64-v8a] Compile        : pojavexec <= jre_launcher.c
+[arm64-v8a] Compile        : pojavexec <= utils.c
+[arm64-v8a] Compile        : pojavexec <= stdio_is.c
+[arm64-v8a] Compile        : pojavexec <= java_exec_hooks.c
+[arm64-v8a] Compile        : pojavexec <= lwjgl_dlopen_hook.c
+[arm64-v8a] SharedLibrary  : libpojavexec.so
+[arm64-v8a] SharedLibrary  : libexithook.so
+[arm64-v8a] Compile++      : linkerhook <= linkerhook.cpp
+[arm64-v8a] Compile        : linkerhook <= linkerns.c
+[arm64-v8a] SharedLibrary  : liblinkerhook.so
+make: Nothing to be done for 'pojavexec'.
+[arm64-v8a] Compile        : pojavexec_awt <= awt_bridge.c
+[arm64-v8a] SharedLibrary  : libpojavexec_awt.so

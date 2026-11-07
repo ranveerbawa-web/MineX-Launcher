@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.movtery.zalithlauncher.ZalithLauncher-mergeDebugResources-48:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/codespace/.gradle/caches/8.11.1/transforms/c419581e8c859eed031d0a8b938b527c/transformed/appcompat-1.7.0-alpha02/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+  "info": {
+    "name": "x86_64",
+    "bitness": 64,
+    "isDefault": true,
+    "isDeprecated": false,
+    "architecture": "x86_64",
+    "triple": "x86_64-linux-android",
+    "llvmTriple": "x86_64-none-linux-android"
+  },
+  "cxxBuildFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/x86_64",
+  "soFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/x86_64",
+  "soRepublishFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/ndkBuild/proguard/obj/local/x86_64",
+  "abiPlatformVersion": 26,
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "proguard",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "armeabi-v7a",
+      "arm64-v8a",
+      "x86",
+      "x86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx",
+      "intermediatesBaseFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates",
+      "intermediatesFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx",
+      "gradleModulePathName": ":ZalithLauncher",
+      "moduleRootFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher",
+      "moduleBuildFile": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build.gradle.kts",
+      "makeFile": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "ndkFolder": "/home/codespace/android-sdk/ndk/25.2.9519653",
+      "ndkFolderBeforeSymLinking": "/home/codespace/android-sdk/ndk/25.2.9519653",
+      "ndkVersion": "25.2.9519653",
+      "ndkSupportedAbiList": [
+        "armeabi-v7a",
+        "arm64-v8a",
+        "x86",
+        "x86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "armeabi-v7a",
+        "arm64-v8a",
+        "x86",
+        "x86_64"
+      ],
+      "ndkDefaultStl": "SYSTEM",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 33,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "name": "armeabi-v7a",
+          "bitness": 32,
+          "isDefault": true,
+          "isDeprecated": false,
+          "architecture": "arm",
+          "triple": "arm-linux-androideabi",
+          "llvmTriple": "armv7-none-linux-androideabi"
+        },
+        {
+          "name": "arm64-v8a",
+          "bitness": 64,
+          "isDefault": true,
+          "isDeprecated": false,
+          "architecture": "arm64",
+          "triple": "aarch64-linux-android",
+          "llvmTriple": "aarch64-none-linux-android"
+        },
+        {
+          "name": "x86",
+          "bitness": 32,
+          "isDefault": true,
+          "isDeprecated": false,
+          "architecture": "x86",
+          "triple": "i686-linux-android",
+          "llvmTriple": "i686-none-linux-android"
+        },
+        {
+          "name": "x86_64",
+          "bitness": 64,
+          "isDefault": true,
+          "isDeprecated": false,
+          "architecture": "x86_64",
+          "triple": "x86_64-linux-android",
+          "llvmTriple": "x86_64-none-linux-android"
+        }
+      ],
+      "cmakeToolchainFile": "/home/codespace/android-sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake",
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "armeabi-v7a": "/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "arm64-v8a": "/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "x86": "/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "x86_64": "/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main",
+        "sdkFolder": "/home/codespace/android-sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": true
+      },
+      "outputOptions": [],
+      "hasBuildTimeInformation": true
+    },
+    "prefabClassPaths": [
+      "/home/codespace/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.0.0/f2702b5ca13df54e3ca92f29d6b403fb6285d8df/cli-2.0.0-all.jar"
+    ],
+    "prefabPackages": [
+      "/home/codespace/.gradle/caches/8.11.1/transforms/81aaa886fb2896915182b157529063c4/transformed/jetified-bytehook-1.0.10/prefab"
+    ],
+    "prefabPackageConfigurations": [],
+    "stlType": "system",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "4q3d5o54g24593kp3i343b2s2g32hz12w1z5m5c5gn564g6h3f3y1nv1w",
+  "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 8.2.2.\n#   - $NDK is the path to NDK 25.2.9519653.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d$PROJECT/ZalithLauncher/src/main/jni/Android.mk\nNDK_APPLICATION_MK\u003d$PROJECT/ZalithLauncher/src/main/jni/Application.mk\nNDK_GRADLE_INJECTED_IMPORT_PATH\u003d$PROJECT/ZalithLauncher/build/.cxx/Debug/$HASH/prefab/$ABI\nAPP_ABI\u003d$ABI\nNDK_ALL_ABIS\u003d$ABI\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-26\nNDK_OUT\u003d$PROJECT/ZalithLauncher/build/intermediates/cxx/Debug/$HASH/obj\nNDK_LIBS_OUT\u003d$PROJECT/ZalithLauncher/build/intermediates/cxx/Debug/$HASH/lib",
+  "configurationArguments": [
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+    "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/x86_64",
+    "APP_ABI\u003dx86_64",
+    "NDK_ALL_ABIS\u003dx86_64",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-26",
+    "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+    "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib"
+  ],
+  "intermediatesParentFolder": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54"
+}

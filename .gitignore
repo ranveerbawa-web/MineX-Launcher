@@ -1,3 +1,14 @@
 /project.zip
 /extracted/MineXLauncher/MineXLauncher/*.jks
 /extracted/MineXLauncher/MineXLauncher/*.keystore
+
+# Generated Android build files
+**/build/
+**/.gradle/
+*.apk
+*.aab
+
+**/build/
+**/.gradle/
+*.apk
+*.aab

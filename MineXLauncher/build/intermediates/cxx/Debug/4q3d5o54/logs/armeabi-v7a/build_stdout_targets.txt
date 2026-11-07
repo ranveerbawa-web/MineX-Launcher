@@ -1,0 +1,33 @@
+
+[armeabi-v7a] SharedLibrary  : libawt_headless.so
+[armeabi-v7a] Compile thumb  : awt_xawt <= xawt_fake.c
+[armeabi-v7a] SharedLibrary  : libawt_xawt.so
+[armeabi-v7a] Compile thumb  : driver_helper <= driver_helper.c
+[armeabi-v7a] Compile thumb  : driver_helper <= nsbypass.c
+[armeabi-v7a] SharedLibrary  : libdriver_helper.so
+[armeabi-v7a] Compile thumb  : exithook <= exit_hook.c
+[armeabi-v7a] Prebuilt       : libbytehook.so <= /home/codespace/.gradle/caches/8.11.1/transforms/81aaa886fb2896915182b157529063c4/transformed/jetified-bytehook-1.0.10/prefab/modules/bytehook/libs/android.armeabi-v7a/
+[armeabi-v7a] Compile thumb  : pojavexec <= bigcoreaffinity.c
+[armeabi-v7a] Compile thumb  : pojavexec <= egl_bridge.c
+[armeabi-v7a] Compile thumb  : pojavexec <= br_loader.c
+[armeabi-v7a] Compile thumb  : pojavexec <= gl_bridge.c
+[armeabi-v7a] Compile thumb  : pojavexec <= osm_bridge.c
+[armeabi-v7a] Compile thumb  : pojavexec <= egl_loader.c
+[armeabi-v7a] Compile thumb  : pojavexec <= osmesa_loader.c
+[armeabi-v7a] Compile thumb  : pojavexec <= swap_interval_no_egl.c
+[armeabi-v7a] Compile thumb  : pojavexec <= virgl_bridge.c
+[armeabi-v7a] Compile thumb  : pojavexec <= environ.c
+[armeabi-v7a] Compile thumb  : pojavexec <= input_bridge_v3.c
+[armeabi-v7a] Compile thumb  : pojavexec <= jre_launcher.c
+[armeabi-v7a] Compile thumb  : pojavexec <= utils.c
+[armeabi-v7a] Compile thumb  : pojavexec <= stdio_is.c
+[armeabi-v7a] Compile thumb  : pojavexec <= java_exec_hooks.c
+[armeabi-v7a] Compile thumb  : pojavexec <= lwjgl_dlopen_hook.c
+[armeabi-v7a] SharedLibrary  : libpojavexec.so
+[armeabi-v7a] SharedLibrary  : libexithook.so
+[armeabi-v7a] Compile++ thumb: linkerhook <= linkerhook.cpp
+[armeabi-v7a] Compile thumb  : linkerhook <= linkerns.c
+[armeabi-v7a] SharedLibrary  : liblinkerhook.so
+make: Nothing to be done for 'pojavexec'.
+[armeabi-v7a] Compile thumb  : pojavexec_awt <= awt_bridge.c
+[armeabi-v7a] SharedLibrary  : libpojavexec_awt.so

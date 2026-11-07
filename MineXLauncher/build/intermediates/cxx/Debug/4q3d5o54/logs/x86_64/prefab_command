@@ -1,0 +1,19 @@
+/usr/local/sdkman/candidates/java/21.0.13.0+2-ms/bin/java \
+  --class-path \
+  /home/codespace/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.0.0/f2702b5ca13df54e3ca92f29d6b403fb6285d8df/cli-2.0.0-all.jar \
+  com.google.prefab.cli.AppKt \
+  --build-system \
+  ndk-build \
+  --platform \
+  android \
+  --abi \
+  x86_64 \
+  --os-version \
+  26 \
+  --stl \
+  system \
+  --ndk-version \
+  25 \
+  --output \
+  /tmp/agp-prefab-staging9035978578528999494/staged-cli-output \
+  /home/codespace/.gradle/caches/8.11.1/transforms/81aaa886fb2896915182b157529063c4/transformed/jetified-bytehook-1.0.10/prefab

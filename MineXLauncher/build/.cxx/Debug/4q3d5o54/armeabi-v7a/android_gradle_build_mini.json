@@ -1,0 +1,178 @@
+{
+  "buildFiles": [
+    "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+      "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+      "APP_ABI\u003darmeabi-v7a",
+      "NDK_ALL_ABIS\u003darmeabi-v7a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-26",
+      "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+      "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+    "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+    "APP_ABI\u003darmeabi-v7a",
+    "NDK_ALL_ABIS\u003darmeabi-v7a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-26",
+    "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+    "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "awt_xawt-proguard-armeabi-v7a": {
+      "artifactName": "awt_xawt",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libawt_xawt.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libawt_xawt.so",
+      "runtimeFiles": []
+    },
+    "exithook-proguard-armeabi-v7a": {
+      "artifactName": "exithook",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libexithook.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libexithook.so",
+      "runtimeFiles": []
+    },
+    "pojavexec-proguard-armeabi-v7a": {
+      "artifactName": "pojavexec",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libpojavexec.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libpojavexec.so",
+      "runtimeFiles": []
+    },
+    "awt_headless-proguard-armeabi-v7a": {
+      "artifactName": "awt_headless",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libawt_headless.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libawt_headless.so",
+      "runtimeFiles": []
+    },
+    "driver_helper-proguard-armeabi-v7a": {
+      "artifactName": "driver_helper",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libdriver_helper.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libdriver_helper.so",
+      "runtimeFiles": []
+    },
+    "pojavexec_awt-proguard-armeabi-v7a": {
+      "artifactName": "pojavexec_awt",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libpojavexec_awt.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/libpojavexec_awt.so",
+      "runtimeFiles": []
+    },
+    "linkerhook-proguard-armeabi-v7a": {
+      "artifactName": "linkerhook",
+      "buildCommandComponents": [
+        "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+        "NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-26",
+        "NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj",
+        "NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib",
+        "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/liblinkerhook.so"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj/local/armeabi-v7a/liblinkerhook.so",
+      "runtimeFiles": []
+    }
+  }
+}

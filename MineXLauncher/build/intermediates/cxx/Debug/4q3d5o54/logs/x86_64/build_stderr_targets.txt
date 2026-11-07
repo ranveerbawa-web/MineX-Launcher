@@ -1,0 +1,69 @@
+rm: cannot remove '/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/../jniLibs/*/libawt_headless.so': No such file or directory
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/gl_bridge.c:104:65: warning: format specifies type 'void *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+        if (!bindResult) printf("EGLBridge: bind failed: %p\n", eglGetError_p());
+                                                         ~~     ^~~~~~~~~~~~~~~
+                                                         %d
+1 warning generated.
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/swap_interval_no_egl.c:236:29: warning: format specifies type 'int' but the argument has type 'unsigned long' [-Wformat]
+                            sizeof(struct ANativeWindow_real), nativeWindowReal->common.version);
+                            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:35:71: warning: format specifies type 'void *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+            printf("EGLBridge: Error: eglMakeCurrent() failed: %p\n", eglGetError_p());
+                                                               ~~     ^~~~~~~~~~~~~~~
+                                                               %d
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:41:25: warning: passing 'const char *[5]' to parameter of type 'char **' discards qualifiers in nested pointer types [-Wincompatible-pointer-types-discards-qualifiers]
+        vtest_main_p(3, (const char*[]){"vtest", "--no-loop-or-fork", "--use-gles", NULL, NULL});
+                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:45:1: warning: non-void function does not return a value in all control paths [-Wreturn-type]
+}
+^
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:77:76: warning: format specifies type 'void *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+            printf("EGLBridge: Error eglGetDefaultDisplay() failed: %p\n", eglGetError_p());
+                                                                    ~~     ^~~~~~~~~~~~~~~
+                                                                    %d
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:85:65: warning: format specifies type 'char *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+        printf("EGLBridge: Error eglInitialize() failed: %s\n", eglGetError_p());
+                                                         ~~     ^~~~~~~~~~~~~~~
+                                                         %d
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:105:76: warning: format specifies type 'char *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+        printf("EGLBridge: Error couldn't get an EGL visual config: %s\n", eglGetError_p());
+                                                                    ~~     ^~~~~~~~~~~~~~~
+                                                                    %d
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:114:70: warning: format specifies type 'char *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+        printf("EGLBridge: Error eglGetConfigAttrib() failed: %s\n", eglGetError_p());
+                                                              ~~     ^~~~~~~~~~~~~~~
+                                                              %d
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/ctxbridges/virgl_bridge.c:126:72: warning: format specifies type 'void *' but the argument has type 'EGLint' (aka 'int') [-Wformat]
+        printf("EGLBridge: Error eglCreateWindowSurface failed: %p\n", eglGetError_p());
+                                                                ~~     ^~~~~~~~~~~~~~~
+                                                                %d
+8 warnings generated.
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/jre_launcher.c:118:69: warning: format specifies type 'int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+            printf("Failed to set signal hander for signal %i: %s", i, strerror(errno));
+                                                           ~~       ^
+                                                           %zu
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/jre_launcher.c:190:37: warning: passing 'char **' to parameter of type 'const char **' discards qualifiers in nested pointer types [-Wincompatible-pointer-types-discards-qualifiers]
+    free_char_array(env, argsArray, argv);
+                                    ^~~~
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/utils.h:11:75: note: passing argument to parameter 'charArray' here
+void free_char_array(JNIEnv *env, jobjectArray jstringArray, const char **charArray);
+                                                                          ^
+2 warnings generated.
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/utils.c:103:33: warning: passing 'const char *' to parameter of type 'char *' discards qualifiers [-Wincompatible-pointer-types-discards-qualifiers]
+        android_update_LD_LIBRARY_PATH(ldLibPathUtf);
+                                       ^~~~~~~~~~~~
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/utils.c:156:32: warning: passing 'char **' to parameter of type 'const char **' discards qualifiers in nested pointer types [-Wincompatible-pointer-types-discards-qualifiers]
+        free_char_array(env, cmdArgs, cmd_args_c);
+                                      ^~~~~~~~~~
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/utils.c:41:75: note: passing argument to parameter 'charArray' here
+void free_char_array(JNIEnv *env, jobjectArray jstringArray, const char **charArray) {
+                                                                          ^
+2 warnings generated.
+/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/awt_bridge.c:120:109: warning: incompatible pointer to integer conversion passing 'void *' to parameter of type 'jint' (aka 'int') [-Wint-conversion]
+    (*runtimeJNIEnvPtr_GRAPHICS)->ReleaseIntArrayElements(runtimeJNIEnvPtr_GRAPHICS, jreRgbArray, rgbArray, NULL);
+                                                                                                            ^~~~
+/home/codespace/android-sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/14.0.7/include/stddef.h:89:16: note: expanded from macro 'NULL'
+#  define NULL ((void*)0)
+               ^~~~~~~~~~
+1 warning generated.

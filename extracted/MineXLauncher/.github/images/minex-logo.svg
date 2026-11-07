@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs>
+<linearGradient id="g"><stop stop-color="#5cf2c2"/><stop offset="1" stop-color="#38a8ff"/></linearGradient>
+</defs>
+<rect width="1000" height="300" rx="35" fill="#101827"/>
+<path d="M80 90 L165 60 L230 90 L205 120 L165 100 L115 125 L150 150 L185 130 L210 155 L145 195 L75 130Z" fill="url(#g)"/>
+<text x="270" y="155" fill="white" font-family="Arial" font-size="90" font-weight="900">MINEX</text>
+<text x="275" y="225" fill="url(#g)" font-family="Arial" font-size="48" font-weight="bold" letter-spacing="10">LAUNCHER</text>
+</svg>

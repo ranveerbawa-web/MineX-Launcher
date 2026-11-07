@@ -1,0 +1,842 @@
+[
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_mod_category.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_mod_category.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_spinner_arrow_right.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_spinner_arrow_right.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_selector_bar_vertical.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/selector_bar_vertical.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item_unselected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item_unselected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_about_verafirefly.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_about_verafirefly.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_shadow_gradient_right.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/shadow_gradient_right.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_activity_error.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/activity_error.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_icon_edit.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_icon_edit.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/anim_fade_downwards.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/anim/fade_downwards.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_button_background_unselected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/button_background_unselected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_storage_test_no_sdcard.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/storage_test_no_sdcard.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_setting_experimental.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_setting_experimental.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_move.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_move.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_mod_dependencies.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_mod_dependencies.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_logger.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_logger.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_about_lingmuqiuzhu.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_about_lingmuqiuzhu.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_download_resource.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_download_resource.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_fabric.webp.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_fabric.webp"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_select_item.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_select_item.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_profile_path.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_profile_path.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_hair.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_hair.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_shadow_gradient_down.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/shadow_gradient_down.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_control_button_setting.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_control_button_setting.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_sponsor_view.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_sponsor_view.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_pojav_full.webp.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_pojav_full.webp"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_shader_pack.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_shader_pack.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_single_action_popup.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_single_action_popup.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_chicken_old.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_chicken_old.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_add_other_server.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_add_other_server.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_centered_textview.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_centered_textview.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_select_version.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_select_version.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_app_name_title.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/app_name_title.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_mods.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_mods.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_versions_list.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_versions_list.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_refresh.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_about.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_version_config.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_version_config.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_favorite.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_anvil.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_anvil.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_settings_fragment_experimental.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/settings_fragment_experimental.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_edit_box.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_edit_box.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_version_manager.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_version_manager.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/xml_provider_paths.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_centered_textview_large.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_centered_textview_large.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_edit_box_selected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_edit_box_selected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_storage_alert.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_storage_alert.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_youtube.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_youtube.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_setting.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_shadow_gradient_up.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/shadow_gradient_up.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_search.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_search.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_game_menu.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_game_menu.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_mod_version.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_mod_version.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_settings_fragment_launcher.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/settings_fragment_launcher.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_java.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_java.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_add.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_task_running.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_task_running.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/anim_cut_out.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/anim/cut_out.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item_selected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item_selected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_account.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_account.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_minex_foreground.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_minex_foreground.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_game_menu.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_game_menu.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_path_manager.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_path_manager.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_mod_download.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_mod_download.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_info_screenshot.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_info_screenshot.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_folder.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_folder.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_old_cobblestone.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_old_cobblestone.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_optifine.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_optifine.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_local_renderer_view.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_local_renderer_view.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_menu_custom_controls.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_menu_custom_controls.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_activity_custom_controls.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/activity_custom_controls.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_version.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_version.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_tip.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_tip.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_file_list_view.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_file_list_view.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_control_editor.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_control_editor.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_activity_game.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_download_beta.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_download_beta.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_install_game.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_install_game.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_command_block.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_command_block.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_quilt.webp.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_quilt.webp"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_view_text_progressbar.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/view_text_progressbar.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_screenshot.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_screenshot.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_multirt_runtime.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_multirt_runtime.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/xml_network_security_config.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_resource_pack.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_resource_pack.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_reset.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_reset.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_keyboard.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_keyboard.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item_2_unselected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item_2_unselected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_download_alpha.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_download_alpha.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_operation_file.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_operation_file.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_about_movtery.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_about_movtery.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_download.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_crash_report.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_crash_report.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/anim_cut_into.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/anim/cut_into.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_settings_fragment_control.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/settings_fragment_control.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_settings_fragment_video.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/settings_fragment_video.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_mouse_pointer.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_mouse_pointer.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_download.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_download.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_no_focus_shown.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/no_focus_shown.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_select_multirt_runtime.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_select_multirt_runtime.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_version.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_version.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_activity_java_gui_launcher.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/activity_java_gui_launcher.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_settings_fragment_game.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/settings_fragment_game.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_zip.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_zip.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_launcher.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_launcher.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_mod_dependencies.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_mod_dependencies.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_control_info.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_control_info.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_activity_splash.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_about_shirosakimio.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_about_shirosakimio.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item_2_selected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item_2_selected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_help.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_help.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_controller_mapping.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_controller_mapping.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_edit_control_info.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_edit_control_info.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_file.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_file.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_download_info.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_download_info.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_shadow_gradient_left.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/shadow_gradient_left.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_settings.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_paste.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_paste.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_files.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_files.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_search.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_check.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_card.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_card.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_favorite_border.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_favorite_border.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_account.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_about_sponsor_page.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_about_sponsor_page.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_update.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_update.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_custom_mouse.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_custom_mouse.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_menu_home.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_menu_home.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_installable.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_installable.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_mods.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_mods.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_microsoft_login.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_microsoft_login.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_warning.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_favorite_folder.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_favorite_folder.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_other_login.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_other_login.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_file_action_bar.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_file_action_bar.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_share.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_custom_background.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_custom_background.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item_2.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item_2.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_modrinth.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_modrinth.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_button_background.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_about_bangbang93.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_about_bangbang93.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_view_handle.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_view_handle.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_add_new.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_add_new.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_item_disabled.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_item_disabled.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_logs.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_logs.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_control_manager.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_control_manager.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_xibao.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_xibao.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_edit_text.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_edit_text.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_curseforge.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_curseforge.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_dialog_background.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_loading.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_loading.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_mod_download.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_mod_download.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_menu_delete_forever.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_menu_delete_forever.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_text.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_text.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_setting_game.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_setting_game.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_version_manager.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_version_manager.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_control_list_view.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_control_list_view.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_game_menu_window.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_game_menu_window.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_mod_search.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_mod_search.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_menu_settings.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_menu_settings.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_neoforge.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_neoforge.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_color_selector.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_color_selector.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_dialog_progress.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_about_view.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_about_view.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_minecraft.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_minecraft.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_account_manager.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_account_manager.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_about.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_about.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_background_edit_box_unselected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/background_edit_box_unselected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_launch_link.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_launch_link.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_download_release.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_download_release.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_progress.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_progress.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_selector_bar_horizontal.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/selector_bar_horizontal.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_about_info_page.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_about_info_page.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_old_grass_block.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_old_grass_block.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_item_other_server.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/item_other_server.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/xml_anim_scale.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/xml/anim_scale.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_image_about_mcmod.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/image_about_mcmod.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_folder.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_folder.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_button_background_selected.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/button_background_selected.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_disabled.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_disabled.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_play_button_background.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/play_button_background.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_edit.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_setting_launcher.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_setting_launcher.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_setting_video.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_setting_video.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_activity_launcher.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_more.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_more.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_view_control_menu.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/view_control_menu.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/layout_fragment_controller_remapper.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/layout/fragment_controller_remapper.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_close.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_copy.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_spinner_arrow.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/spinner_arrow.xml"
+    },
+    {
+        "merged": "com.movtery.zalithlauncher.ZalithLauncher-merged_res-50:/drawable_ic_profile_saves.xml.flat",
+        "source": "com.movtery.zalithlauncher.ZalithLauncher-main-52:/drawable/ic_profile_saves.xml"
+    }
+]

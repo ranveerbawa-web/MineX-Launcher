@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: armeabi-v7a",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/usr/local/sdkman/candidates/java/21.0.13.0+2-ms/bin/java \\\n  --class-path \\\n  /home/codespace/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.0.0/f2702b5ca13df54e3ca92f29d6b403fb6285d8df/cli-2.0.0-all.jar \\\n  com.google.prefab.cli.AppKt \\\n  --build-system \\\n  ndk-build \\\n  --platform \\\n  android \\\n  --abi \\\n  armeabi-v7a \\\n  --os-version \\\n  26 \\\n  --stl \\\n  system \\\n  --ndk-version \\\n  25 \\\n  --output \\\n  /tmp/agp-prefab-staging9324184262115366102/staged-cli-output \\\n  /home/codespace/.gradle/caches/8.11.1/transforms/81aaa886fb2896915182b157529063c4/transformed/jetified-bytehook-1.0.10/prefab\n",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/armeabi-v7a\u0027",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/armeabi-v7a\u0027",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild /home/codespace/android-sdk/ndk/25.2.9519653/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk \\\n  NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a \\\n  APP_ABI\u003darmeabi-v7a \\\n  NDK_ALL_ABIS\u003darmeabi-v7a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-26 \\\n  NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj \\\n  NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/home/codespace/android-sdk/ndk/25.2.9519653/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk \\\n  NDK_GRADLE_INJECTED_IMPORT_PATH\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/.cxx/Debug/4q3d5o54/prefab/armeabi-v7a \\\n  APP_ABI\u003darmeabi-v7a \\\n  NDK_ALL_ABIS\u003darmeabi-v7a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-26 \\\n  NDK_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/obj \\\n  NDK_LIBS_OUT\u003d/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/build/intermediates/cxx/Debug/4q3d5o54/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 0",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file /workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Application.mk",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/jni/Android.mk",
+    "tag_": "proguard|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

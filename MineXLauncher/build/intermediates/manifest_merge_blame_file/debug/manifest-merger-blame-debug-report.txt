@@ -1,0 +1,375 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ranveerbawa.minexlauncher.debug"
+4    android:versionCode="141400"
+5    android:versionName="1.4.1.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature android:glEsVersion="0x00020000" />
+11-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:5:5-54
+11-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:5:19-51
+12    <uses-feature
+12-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:6:5-8:36
+13        android:name="android.hardware.type.pc"
+13-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:7:9-48
+14        android:required="false" />
+14-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:8:9-33
+15
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:10:5-77
+16-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:10:22-74
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:11:5-81
+17-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:12:5-80
+18-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:12:22-77
+19    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+19-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:13:5-14:40
+19-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:13:22-79
+20    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+20-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:15:5-83
+20-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:15:22-80
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:16:5-67
+21-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:16:22-64
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:17:5-79
+22-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:17:22-76
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:18:5-71
+23-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:18:22-68
+24    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+24-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:19:5-77
+24-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:19:22-74
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+25-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:20:5-87
+25-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:20:22-84
+26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
+26-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:21:5-88
+26-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:21:22-86
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:22:5-68
+27-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:22:22-65
+28    <uses-permission android:name="android.permission.VIBRATE" />
+28-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:23:5-65
+28-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:23:22-63
+29
+30    <queries>
+30-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:126:5-131:15
+31        <package android:name="net.kdt.pojavlaunch.ffmpeg" />
+31-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:127:9-61
+31-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:127:18-59
+32
+33        <intent>
+33-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:128:9-130:18
+34            <action android:name="android.intent.action.MAIN" />
+34-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:129:13-65
+34-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:129:21-62
+35        </intent>
+36    </queries>
+37
+38    <permission
+38-->[androidx.core:core:1.13.1] /home/codespace/.gradle/caches/8.11.1/transforms/a46e26ce5741143924154bdf35cdf937/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+39        android:name="com.ranveerbawa.minexlauncher.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+39-->[androidx.core:core:1.13.1] /home/codespace/.gradle/caches/8.11.1/transforms/a46e26ce5741143924154bdf35cdf937/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+40        android:protectionLevel="signature" />
+40-->[androidx.core:core:1.13.1] /home/codespace/.gradle/caches/8.11.1/transforms/a46e26ce5741143924154bdf35cdf937/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+41
+42    <uses-permission android:name="com.ranveerbawa.minexlauncher.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+42-->[androidx.core:core:1.13.1] /home/codespace/.gradle/caches/8.11.1/transforms/a46e26ce5741143924154bdf35cdf937/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+42-->[androidx.core:core:1.13.1] /home/codespace/.gradle/caches/8.11.1/transforms/a46e26ce5741143924154bdf35cdf937/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+43
+44    <application
+45        android:name="net.kdt.pojavlaunch.PojavApplication"
+45-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:26:9-60
+46        android:allowBackup="true"
+46-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:27:9-35
+47        android:allowNativeHeapPointerTagging="false"
+47-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:28:9-54
+48        android:appCategory="game"
+48-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:30:9-35
+49        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+49-->[androidx.core:core:1.13.1] /home/codespace/.gradle/caches/8.11.1/transforms/a46e26ce5741143924154bdf35cdf937/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+50        android:debuggable="true"
+51        android:extractNativeLibs="true"
+52        android:hasFragileUserData="true"
+52-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:31:9-42
+53        android:icon="@mipmap/ic_launcher"
+53-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:33:9-43
+54        android:isGame="true"
+54-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:34:9-30
+55        android:label="MineX Launcher"
+55-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:35:9-41
+56        android:networkSecurityConfig="@xml/network_security_config"
+56-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:29:9-69
+57        android:process=":launcher"
+57-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:36:9-36
+58        android:requestLegacyExternalStorage="true"
+58-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:32:9-52
+59        android:resizeableActivity="true"
+59-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:37:9-42
+60        android:roundIcon="@mipmap/ic_launcher_round"
+60-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:38:9-54
+61        android:theme="@style/AppTheme" >
+61-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:39:9-40
+62        <meta-data
+62-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:42:9-44:43
+63            android:name="android.max_aspect"
+63-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:43:13-46
+64            android:value="ratio_float" />
+64-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:44:13-40
+65
+66        <activity
+66-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:45:9-56:20
+67            android:name="com.movtery.zalithlauncher.ui.activity.SplashActivity"
+67-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:46:13-81
+68            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation"
+68-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:49:13-126
+69            android:exported="true"
+69-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:47:13-36
+70            android:launchMode="singleTop"
+70-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:48:13-43
+71            android:screenOrientation="sensorLandscape" >
+71-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:50:13-56
+72            <intent-filter>
+72-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:51:13-55:29
+73                <action android:name="android.intent.action.MAIN" />
+73-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:129:13-65
+73-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:129:21-62
+74
+75                <category android:name="android.intent.category.LAUNCHER" />
+75-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:54:17-77
+75-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:54:27-74
+76            </intent-filter>
+77        </activity>
+78        <activity
+78-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:57:9-61:59
+79            android:name="net.kdt.pojavlaunch.MissingStorageActivity"
+79-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:58:13-70
+80            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation"
+80-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:60:13-126
+81            android:exported="false"
+81-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:59:13-37
+82            android:screenOrientation="sensorLandscape" />
+82-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:61:13-56
+83        <activity
+83-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:62:9-66:59
+84            android:name="net.kdt.pojavlaunch.LauncherActivity"
+84-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:63:13-64
+85            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation"
+85-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:65:13-126
+86            android:screenOrientation="sensorLandscape"
+86-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:66:13-56
+87            android:windowSoftInputMode="adjustResize" />
+87-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:64:13-55
+88        <activity
+88-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:67:9-70:59
+89            android:name="com.movtery.zalithlauncher.ui.activity.ErrorActivity"
+89-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:68:13-80
+90            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation"
+90-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:69:13-126
+91            android:screenOrientation="sensorLandscape" />
+91-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:70:13-56
+92        <activity
+92-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:71:9-73:70
+93            android:name="net.kdt.pojavlaunch.ShowErrorActivity"
+93-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:71:19-71
+94            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|navigation"
+94-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:72:13-94
+95            android:theme="@style/Theme.AppCompat.DayNight.Dialog" />
+95-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:73:13-67
+96        <activity
+96-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:74:9-78:59
+97            android:name="net.kdt.pojavlaunch.JavaGUILauncherActivity"
+97-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:76:13-71
+98            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation"
+98-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:77:13-126
+99            android:process=":gui_installer"
+99-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:75:13-45
+100            android:screenOrientation="sensorLandscape" />
+100-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:78:13-56
+101        <activity
+101-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:79:9-89:20
+102            android:name="net.kdt.pojavlaunch.CustomControlsActivity"
+102-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:80:13-70
+103            android:configChanges="keyboardHidden|orientation|screenSize|keyboard|navigation"
+103-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:81:13-94
+104            android:exported="false"
+104-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:82:13-37
+105            android:screenOrientation="sensorLandscape" >
+105-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:83:13-56
+106            <intent-filter>
+106-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:84:13-88:29
+107                <action android:name=".CustomControlsActivity" />
+108
+109                <category android:name="android.intent.category.DEFAULT" />
+109-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:87:17-76
+109-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:87:27-73
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:90:9-95:59
+113            android:name="net.kdt.pojavlaunch.MainActivity"
+113-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:91:13-60
+114            android:configChanges="keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout|keyboard|navigation"
+114-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:92:13-126
+115            android:launchMode="singleTop"
+115-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:93:13-43
+116            android:process=":game"
+116-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:94:13-36
+117            android:screenOrientation="sensorLandscape" />
+117-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:95:13-56
+118
+119        <provider
+119-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:97:9-106:20
+120            android:name="net.kdt.pojavlaunch.scoped.FolderProvider"
+120-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:98:13-69
+121            android:authorities="@string/storageProviderAuthorities"
+121-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:99:13-69
+122            android:exported="true"
+122-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:100:13-36
+123            android:grantUriPermissions="true"
+123-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:101:13-47
+124            android:permission="android.permission.MANAGE_DOCUMENTS" >
+124-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:102:13-69
+125            <intent-filter>
+125-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:103:13-105:29
+126                <action android:name="android.content.action.DOCUMENTS_PROVIDER" />
+126-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:104:17-84
+126-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:104:25-81
+127            </intent-filter>
+128        </provider>
+129        <provider
+130            android:name="androidx.core.content.FileProvider"
+130-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:108:13-62
+131            android:authorities="com.ranveerbawa.minexlauncher.debug.provider"
+131-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:109:13-60
+132            android:exported="false"
+132-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:110:13-37
+133            android:grantUriPermissions="true" >
+133-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:111:13-47
+134            <meta-data
+134-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:112:13-114:58
+135                android:name="android.support.FILE_PROVIDER_PATHS"
+135-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:113:17-67
+136                android:resource="@xml/provider_paths" />
+136-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:114:17-55
+137        </provider>
+138
+139        <service
+139-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:117:9-119:56
+140            android:name="net.kdt.pojavlaunch.services.ProgressService"
+140-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:118:13-72
+141            android:foregroundServiceType="dataSync" />
+141-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:119:13-53
+142        <service
+142-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:120:9-124:19
+143            android:name="net.kdt.pojavlaunch.services.GameService"
+143-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:120:18-73
+144            android:foregroundServiceType="specialUse"
+144-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:121:13-55
+145            android:process=":game" >
+145-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:120:74-97
+146            <property
+146-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:122:13-123:242
+147                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+147-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:122:23-82
+148                android:value="This application is intended to run a 3rd-party piece of software which cannot be managed using the activity&apos;s saved instance state. This service is used for background persistence of this piece of software." />
+148-->/workspaces/MineX-Launcher/extracted/ZalithLauncher-main/ZalithLauncher/src/main/AndroidManifest.xml:123:17-240
+149        </service>
+150
+151        <provider
+151-->[io.github.petterpx:floatingx:2.3.3] /home/codespace/.gradle/caches/8.11.1/transforms/6ed66ee289cb94600955f33c3899b263/transformed/jetified-floatingx-2.3.3/AndroidManifest.xml:8:9-12:43
+152            android:name="com.petterp.floatingx.assist.FxContentProvider"
+152-->[io.github.petterpx:floatingx:2.3.3] /home/codespace/.gradle/caches/8.11.1/transforms/6ed66ee289cb94600955f33c3899b263/transformed/jetified-floatingx-2.3.3/AndroidManifest.xml:9:13-74
+153            android:authorities="com.ranveerbawa.minexlauncher.debug.fx.provider"
+153-->[io.github.petterpx:floatingx:2.3.3] /home/codespace/.gradle/caches/8.11.1/transforms/6ed66ee289cb94600955f33c3899b263/transformed/jetified-floatingx-2.3.3/AndroidManifest.xml:10:13-63
+154            android:exported="false"
+154-->[io.github.petterpx:floatingx:2.3.3] /home/codespace/.gradle/caches/8.11.1/transforms/6ed66ee289cb94600955f33c3899b263/transformed/jetified-floatingx-2.3.3/AndroidManifest.xml:11:13-37
+155            android:multiprocess="true" />
+155-->[io.github.petterpx:floatingx:2.3.3] /home/codespace/.gradle/caches/8.11.1/transforms/6ed66ee289cb94600955f33c3899b263/transformed/jetified-floatingx-2.3.3/AndroidManifest.xml:12:13-40
+156        <provider
+156-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+157            android:name="androidx.startup.InitializationProvider"
+157-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+158            android:authorities="com.ranveerbawa.minexlauncher.debug.androidx-startup"
+158-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+159            android:exported="false" >
+159-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+160            <meta-data
+160-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+161                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+161-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+162                android:value="androidx.startup" />
+162-->[androidx.emoji2:emoji2:1.2.0] /home/codespace/.gradle/caches/8.11.1/transforms/a4b3d3014e3e830f649124836fcc7b08/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+163            <meta-data
+163-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/codespace/.gradle/caches/8.11.1/transforms/29f6614f2ca3bf0b1a6f613cdddfe478/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+164                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+164-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/codespace/.gradle/caches/8.11.1/transforms/29f6614f2ca3bf0b1a6f613cdddfe478/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+165                android:value="androidx.startup" />
+165-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/codespace/.gradle/caches/8.11.1/transforms/29f6614f2ca3bf0b1a6f613cdddfe478/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+166            <meta-data
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+167                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+167-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+168                android:value="androidx.startup" />
+168-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+169        </provider>
+170
+171        <uses-library
+171-->[androidx.window:window:1.0.0] /home/codespace/.gradle/caches/8.11.1/transforms/c0fb68374cd0ea804e7b85e8706973f2/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+172            android:name="androidx.window.extensions"
+172-->[androidx.window:window:1.0.0] /home/codespace/.gradle/caches/8.11.1/transforms/c0fb68374cd0ea804e7b85e8706973f2/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+173            android:required="false" />
+173-->[androidx.window:window:1.0.0] /home/codespace/.gradle/caches/8.11.1/transforms/c0fb68374cd0ea804e7b85e8706973f2/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+174        <uses-library
+174-->[androidx.window:window:1.0.0] /home/codespace/.gradle/caches/8.11.1/transforms/c0fb68374cd0ea804e7b85e8706973f2/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+175            android:name="androidx.window.sidecar"
+175-->[androidx.window:window:1.0.0] /home/codespace/.gradle/caches/8.11.1/transforms/c0fb68374cd0ea804e7b85e8706973f2/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+176            android:required="false" />
+176-->[androidx.window:window:1.0.0] /home/codespace/.gradle/caches/8.11.1/transforms/c0fb68374cd0ea804e7b85e8706973f2/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+177
+178        <receiver
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+179            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+180            android:directBootAware="false"
+180-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+181            android:enabled="true"
+181-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+182            android:exported="true"
+182-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+183            android:permission="android.permission.DUMP" >
+183-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+184            <intent-filter>
+184-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+185                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+185-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+185-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+186            </intent-filter>
+187            <intent-filter>
+187-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+188                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+188-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+188-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+189            </intent-filter>
+190            <intent-filter>
+190-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+191                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+191-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+191-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+192            </intent-filter>
+193            <intent-filter>
+193-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+194                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+194-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+194-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/codespace/.gradle/caches/8.11.1/transforms/11a609735331570429b15e704f274d07/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+195            </intent-filter>
+196        </receiver>
+197    </application>
+198
+199</manifest>
